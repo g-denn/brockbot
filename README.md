@@ -4,6 +4,8 @@
 
 Brockbot is a local workspace for assigning focused tasks to named AI teammates. It uses the Codex CLI installed and signed in on your computer. You can watch a run, inspect its files, and continue the conversation with the same teammate.
 
+[![Brock Lesnar screaming](https://media1.tenor.com/m/09gl7xnMWQsAAAAC/brock-lesnar-brock.gif)](https://tenor.com/view/brock-lesnar-brock-screaming-scream-wwe-gif-15264992645832530187)
+
 ![Brockbot workspace preview](public/social-preview.png)
 
 ## Run it
