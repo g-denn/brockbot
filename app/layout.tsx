@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Brockbot",
-  description: "Local teammates for bounded, reviewable work.",
+  description: "Eat. Sleep. Delegate. Conquer. Repeat. Brockbot gives you local AI teammates powered by Codex CLI.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
